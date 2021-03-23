@@ -1,0 +1,3 @@
+[submodule "lib/sub"]
+	path = lib/sub
+	url = https://github.com/mahi1982/myFirstTest.git
